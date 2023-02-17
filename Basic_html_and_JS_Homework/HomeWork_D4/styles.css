@@ -1,0 +1,14 @@
+table {
+    border: 1px solid black;
+    display: block;
+    width: 43em;
+    margin: auto;
+}
+p {
+    font-size: smaller;
+}
+h3 {
+    color: rgb(0, 0, 157);
+    font-size: x-large;
+    margin-top: auto;
+}

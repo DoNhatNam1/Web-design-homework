@@ -1,0 +1,60 @@
+b {
+    font-size: 35px;
+    font-family: fantasy;
+    color: red;
+}
+h3 {
+    text-align: center;
+    font-size: 15px;
+}
+.container {
+    position: relative;
+}
+
+.text {
+    position: absolute;
+    top: 8px;
+    right: 640px;
+}
+.title-imgage {
+    width: 80px;
+    display: block;
+    margin-left: 580px;
+    margin-right: auto;
+}
+.main-table {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+}
+.child-table {
+    width: 10px;
+}
+td.spacing-table {
+    border: 2px solid black;
+    padding: 10px;
+}
+table.child-table {
+    width: 15em;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid rgb(232, 232, 232);
+}
+.child-td-text {
+    text-align: left;
+    border: 1.5px solid rgb(148, 148, 148);
+}
+.child-td-number {
+    text-align: right;
+    border: 1.5px solid rgb(148, 148, 148);
+}
+.border-insider-main-table {
+    border: 2px solid black;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}

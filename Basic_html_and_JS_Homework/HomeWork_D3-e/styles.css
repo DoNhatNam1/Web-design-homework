@@ -1,0 +1,40 @@
+.text-underline {
+    text-align: center;
+    text-decoration: underline;
+}
+table {
+    display: block;
+    margin: auto;
+    padding: none;
+}
+h3 {
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;
+}
+.col-1 {
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+}
+.col-2 {
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+}
+.col-3 {
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+}
+.re-col-1 {
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+}
+.re-col-2 {
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+}
+.re-col-3 {
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+}

@@ -1,0 +1,23 @@
+table {
+    width: 35em;
+    margin-left: 90px;
+    border: 2px solid rgb(232, 232, 232);
+}
+tr,
+td,
+th {
+    border: 1.5px solid rgb(148, 148, 148);
+}
+th {
+    background-image: url("../../Image/CARP10.BMP");
+    text-align: left;
+}
+td.number {
+    text-align: right;
+}
+td.text {
+    text-align: left;
+}
+tr.column-1 {
+    background-color: yellow;
+}
